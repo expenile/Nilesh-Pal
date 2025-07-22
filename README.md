@@ -1,5 +1,3 @@
-# 👨‍💻 Nilesh Pal
-
 🎓 **Bachelor of Engineering (Information Technology)**  
 Thakur College of Engineering and Technology (GPA: 9.3 / 10)  
 📍 Mumbai, Maharashtra  
