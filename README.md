@@ -10,7 +10,7 @@ Thakur College of Engineering and Technology (GPA: 9.3 / 10)
 
 ## 💼 Experience
 
-**Full Stack Developer Intern** — *Bharat Intern Pvt. Ltd.*  
+**Full Stack Developer Intern** — *Octanet Pvt. Ltd.*  
 📍 Mumbai, Maharashtra | 🗓️ Dec 2023 – Jan 2024  
 - Built a full-featured blog site using HTML, Tailwind CSS.
 - Implemented secure JWT-based authentication.
